@@ -1,10 +1,7 @@
 # Create and Test Bipartite Graphs in Java
 > - **createGraph.java:** the program will output 10 random bipartite graphs and 10 random non-bipartite graphs in separate txt file. The number of nodes are random within 1000.
-
 > - **testGraph.java:** this program read txt files. If a txt file representing a graph is a bipartite, it will return "true". Otherwise returns "false".
-
 > - **The “Bipartite” folder** contains 10 examples of bipartite graphs.
-
 > - **The “Non-Bipartite” folder** contains 10 examples of non-bipartite graphs.
 
 
