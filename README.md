@@ -9,7 +9,7 @@
 
 
 
-##Create new Bipartite Graphs:
+## Create new Bipartite Graphs:
 1. Download **createGraph.java** to your desktop
 2. Open terminal and cd to the enclosing folder
 3. Type **"javac createGraph.java"** to compile
@@ -17,7 +17,7 @@
 5. 10 examples of bipartite graphs will be created in txt files in the folder
 
 
-##Test whether are Bipartite Graphs:
+## Test whether are Bipartite Graphs:
 1. Download **testGraph.java** to your desktop
 2. If you are testing with your own graphs in txt files: open **testGraph.java** and go to the main function. Replace the variable fileName with your path to your txt files.<br>
 If you are testing one file at a time, comment out the for loop at the beginning. If you wish to test all txt files and there is a pattern in your file name, feel free to use the for loop.
