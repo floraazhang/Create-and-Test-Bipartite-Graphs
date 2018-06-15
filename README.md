@@ -10,7 +10,7 @@
 1. Download **createGraph.java** to your desktop
 2. Open terminal and cd to the enclosing folder
 3. Type **"javac createGraph.java"** to compile
-4. Type **"java testGraph"** to run
+4. Type **"java createGraph"** to run
 5. 10 examples of bipartite graphs will be created in txt files in the folder
 
 
